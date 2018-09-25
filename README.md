@@ -21,7 +21,7 @@ Bárki hozzájárulhat az adatbázis bővitéséhez, fejlesztéséhez!
 
 - PowerPoint (ppt / pptx)
 
-- Szöveges (Plain Text) Fálj (txt vagy doc / docx)
+- Szöveges Fálj (txt vagy doc / docx)
 
 
 Minden program főmappáján belül külön mappa található minden verziószámhoz (pl. külön mappa az EasyWorship 2006-hoz, külön mappa EasyWorship 2009-hez).
